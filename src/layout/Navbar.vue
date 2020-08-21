@@ -15,6 +15,7 @@ export default {
   },
   created() {
     this.pageList = [
+      { text: 'Home', name: 'home' },
       { text: 'Chapter1', name: 'chapter1' },
       { text: 'Chapter2', name: 'chapter2' },
     ];
