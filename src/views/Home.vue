@@ -1,9 +1,6 @@
 <template>
   <div>
     Home Page
-    123
-    456
-    789
   </div>
 </template>
 
